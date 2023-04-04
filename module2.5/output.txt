@@ -1,1 +1,6 @@
-Enter Your Amount:-
+Enter a Number
+Enter Another Number
+Summation of 20 and 3 is:23
+Subtraction of 20 and 3 is:17
+multiplication of 20 and 3 is:60
+division  of 20 and 3 is:6.67
