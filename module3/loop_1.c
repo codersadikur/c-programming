@@ -2,8 +2,8 @@
 
 int main() {
     int i;
-    for (i = 1; i <= 10; i++) {
-        printf("I'll win!\n");
+    for (i = -1; i >= -5; i-=1) {
+        printf("hello\n");
     }
     return 0;
 }
